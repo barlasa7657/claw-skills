@@ -1,6 +1,6 @@
 # AGENTS.md
 
-本仓库是 OpenClaw 的 skills 集合（claw-skills），由 DocuSpeed 维护。
+本仓库是一些可用于 OpenClaw 的有趣且实用的 skills 集合（claw-skills），由七转科技维护。
 
 ## 项目结构
 

@@ -1,12 +1,18 @@
 # claw-skills
 
-OpenClaw 的 skills 集合，由 DocuSpeed 维护。
+OpenClaw 的 skills 集合，由七转科技维护。
 
 ## Skills 列表
 
 | Skill | 描述 |
 |-------|------|
 | [interdisciplinary-research](./interdisciplinary-research/SKILL.md) | 跨学科专家研究方法。描述如何从网上的信息去采集、分析最靠谱、最真实的数据并进行分析研究的方法论框架。 |
+
+### interdisciplinary-research
+
+该技能可以让龙虾对任何事实进行多维度核验，从不同学科视角深入分析和研究问题，往往可以给出让人惊艳的输出结果。
+
+查看 [demo-output.pdf](./interdisciplinary-research/assets/demo-output.pdf) — 这是基于 Opus 4.6 使用本技能的一个分析结果示例，可以看到效果非常棒。
 
 ## 目录结构
 
@@ -47,4 +53,4 @@ cp -r interdisciplinary-research /path/to/your/workspace/
 
 ## License
 
-[MIT](./LICENSE) © DocuSpeed
+[MIT](./LICENSE) © Qizhuan
