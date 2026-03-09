@@ -10,6 +10,8 @@ OpenClaw 的 skills 集合，由七转科技维护。
 
 ### interdisciplinary-research
 
+本技能作者：慕峰（公众号：太阳照常升起）
+
 该技能可以让龙虾对任何事实进行多维度核验，从不同学科视角深入分析和研究问题，往往可以给出让人惊艳的输出结果。
 
 查看 [demo-output.pdf](./interdisciplinary-research/assets/demo-output.pdf) — 这是基于 Opus 4.6 使用本技能的一个分析结果示例，可以看到效果非常棒。
